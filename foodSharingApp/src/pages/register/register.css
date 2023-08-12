@@ -1,0 +1,12 @@
+.register-cont {
+  height: calc(100vh - 4rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #62a976;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 800px;
+  margin: 0 200px 0 250px;
+}
